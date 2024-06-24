@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0d411b;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display:inline ;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+main {
+    padding: 25px;
+}
+body>
+html>
+head>
+body>
+    style type>
+        body {
+          color:rgb(9, 9, 9);
+          background-color:light green
+        }
+        h1 {
+          color:rgb(11, 11, 12);
+            background-color:rgb(215, 222, 200);
+        }
+      style>
+body> 
+      style type>
+      h1{ font-size: 40px}
+      p{font-size:20px}
+      li{font-size:20px}
+      r{font-size:20px}
+      td{font-size:25px}
+      textarea{font-size:50px}
+      h2{font-size:40px}
+      div{font-size:20px}
+      button{font-size:30px}
+      label{font-size:30px}
+      input{font-size:30px}
